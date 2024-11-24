@@ -57,4 +57,15 @@ PS C:\WINDOWS\system32>
 npm install
 ```
 
-Documents\GitHub\fantastic-lamp\node_modules\.bin\' is not recognized as an internal or external command
+```
+
+npm test
+
+\Documents\GitHub\Speedy_Turtle\node_modules\.bin\' is not recognized as an internal or external command,
+operable program or batch file.
+node:internal/modules/cjs/loader:1252
+  throw err;
+  ^
+
+Error: Cannot find module 'C:\Users\vitest\vitest.mjs'
+```
